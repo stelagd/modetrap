@@ -25,4 +25,4 @@ for the one bead case, or
 
     python modetrap_slider.py 2
 
-for the two bead case. Click on the cases and adjust the sliders to reproduce the frequency spacing patterns shown, commonly referred to as "mode trapping".
+for the two bead case. Click on the cases and adjust the sliders to reproduce the frequency spacing patterns shown, commonly referred to as _mode trapping_.
