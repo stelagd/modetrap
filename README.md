@@ -10,7 +10,7 @@ This package requires matplotlib, pylab, and the TkAgg backend. It has been deve
 
 To build the modetrap binary file, type
 
-make modetrap_sub
+> make modetrap_sub
 
 This creates the file *modetrap_sub.so*. 
 
@@ -18,10 +18,10 @@ This creates the file *modetrap_sub.so*.
 
 To start the application type 
 
-python modetrap_slider.py 1
+> python modetrap_slider.py 1
 
 for the one bead case, or 
 
-python modetrap_slider.py 1
+> python modetrap_slider.py 2
 
 for the two bead case.
