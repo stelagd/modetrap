@@ -7,7 +7,7 @@ This package requires a fortran compiler, matplotlib, pylab, and the TkAgg backe
 - matplotlib 1.4.3
 - numpy 1.9.2
 - python 2.7.9
-- gfortran GNU Fortran (GCC) 4.9.3 20150202
+- gfortran: GNU Fortran (GCC) 4.9.3 20150202
 
 To build the modetrap binary file, type
 
@@ -25,4 +25,4 @@ for the one bead case, or
 
     python modetrap_slider.py 2
 
-for the two bead case. Click on the cases and adjust the sliders to reproduce the frequency spacing patterns shown (the *modetrapping*).
+for the two bead case. Click on the cases and adjust the sliders to reproduce the frequency spacing patterns shown, commonly referred to as "mode trapping".
